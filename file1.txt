@@ -1,0 +1,8 @@
+This is a test file. Writing to file on DELL-PC.
+Using iso::app to append this text on previuos file but if we search the text on previuos file it returns "Not Found". Stuck in this problem.
+writing some text
+sys/wait.h is a system library-1
+pthread.h is a header file
+this is testing after removing pos==string::mpos
+polito genral motors
+motos
